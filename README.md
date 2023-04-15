@@ -3,7 +3,7 @@
 <br />
 
 ### Hi there 👋
-**Welcome to my profile!** :star_struck: <br> 
+**Welcome to my profile!** :star_struck: <br> [![Github](https://img.shields.io/github/followers/abhinayTiwari?label=Follow&style=social)](https://github.com/abhinayTiwari)
 
 I’m currently developing *Extensible Traffic Management System* for [Advanced Air Mobility Mission](https://www.nasa.gov/aam) 🚀✈️🚁 at [NASA AMES](https://www.nasa.gov/ames/).
 
@@ -44,8 +44,30 @@ I’m currently developing *Extensible Traffic Management System* for [Advanced 
 
 <br />
 
-**Follow me**
-<br />
+<!-- **Follow me**
+<br /> -->
+<!-- 
+<a href="https://twitter.com/_abhinayt"><img height="20" alt="Twitter" src="./assets/twitter.png"></a> -->
 
-<a href="https://twitter.com/_abhinayt"><img height="20" alt="Twitter" src="./assets/twitter.png"></a>
+<!-- Social button 1 -->
+<!-- Light Mode -->
+<a href="https://twitter.com/intent/follow?screen_name=_abhinayt#gh-light-mode-only">
+<img src="https://img.shields.io/badge/follow-%40_AbhinayT-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
+</a>
+<!-- Dark Mode -->
+<a href="https://twitter.com/intent/follow?screen_name=_abhinayt#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/follow-%40_AbhinayT-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+</a>
+&nbsp;
+<!-- Social button 2 -->
+<!-- Light Mode -->
+<a href="https://www.linkedin.com/in/abhinay-tiwari-406181127/#gh-light-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
+</a>
+<!-- Dark Mode -->
+<a href="https://www.linkedin.com/in/abhinay-tiwari-406181127/#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
+</a>
+
+</div>
 
