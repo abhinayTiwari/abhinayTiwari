@@ -6,9 +6,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/abhinayTiwari) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=abhinayTiwari.visitor-badge)](https://github.com/abhinayTiwari) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/abhinayTiwari)
 
 
-- 🔭 I’m currently working as a Senior Research Associate at NASA Ames
+- 🔭 I’m currently working as a **Senior Research Associate** at [NASA Ames](https://www.nasa.gov/ames/)
 - 🌱 I’m currently learning React Native, Typescript, GraphQl, and AWS
 - 👯 I’m looking to collaborate on Javascript
-<!-- - 🤔 I’m looking for help with , React Native Animation -->
 - 💬 Ask me about React, React Native, Javascript
+<!-- - 🤔 I’m looking for help with , React Native Animation -->
 <!-- - ⚡ Fun fact:  -->
