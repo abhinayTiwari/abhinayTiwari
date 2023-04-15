@@ -5,19 +5,17 @@
 ### Hi there 👋
 **Welcome to my profile!** :star_struck: <br> 
 
-*I’m currently developing Advanced Air Mobility Traffic Management system at [Airspace Operations Lab](https://humansystems.arc.nasa.gov/groups/AOL/research/utm.php), [NASA AMES](https://www.nasa.gov/ames/).*
+I’m currently developing Advanced Air Mobility Traffic Management system 🚀✈️🚁 in [Airspace Operations Lab](https://humansystems.arc.nasa.gov/groups/AOL/research/utm.php) at [NASA AMES](https://www.nasa.gov/ames/).
 
 <br />
 
 **About me**
 
-- 💼 Senior Research Associate at [NASA AMES](https://www.nasa.gov/ames/)
+- ❤️ I love Tae-Kwon-Do, Kick Boxing, Hiking, Camping and exploring new places.
 
-- ❤️ I love writing TypeScript based applications, and doing research in [Advanced Air Mobility](https://www.nasa.gov/aam)
+- 🌱 I’m currently learning React Native, Typescript, GraphQl, AWS and Guitar 🎸.
 
-- 🌱 I’m currently learning React Native, Typescript, GraphQl, and AWS
-
-- 👯 I’m looking to collaborate on Javascript based project and UAM based research opportunities
+- 👯 I’m looking to collaborate on Javascript based projects and UAM based research opportunities
 
 - 💬 Ask me about anything [here](https://github.com/abhinayTiwari/abhinayTiwari/issues)
 
