@@ -3,12 +3,12 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhinay%20Tiwari&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20NASA%20AMES%20%7C%20UAM%20%26%20AI%20Enthusiast&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhinay%20Tiwari&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Research%20Engineer%20%7C%20NASA%20AMES%20%7C%20Aviation%20%2B%20AI%20Enthusiast&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Animated Typing Banner -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Hey+there!+I%27m+Abhinay+%F0%9F%91%8B;Building+the+future+of+Air+Mobility+%F0%9F%9A%80;Full+Stack+Engineer+%40+NASA+AMES+%F0%9F%9B%B8;Open+Source+%7C+AI+%7C+UAM+Research;Ask+me+anything!+%F0%9F%92%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Hey+there!+I%27m+Abhinay+%F0%9F%91%8B;Building+the+future+of+Air+Mobility+%F0%9F%9A%80;Full+Stack+Research+Engineer+%40+NASA+AMES+%F0%9F%9B%B8;Open+Source+%7C+AI+%7C+Aviation+Researcher;Ask+me+anything!+%F0%9F%92%AC)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,7 +27,7 @@
 class AbhinayTiwari:
     def __init__(self):
         self.name        = "Abhinay Tiwari"
-        self.role        = "Full Stack Engineer @ NASA AMES"
+        self.role        = "Full Stack Research Engineer @ NASA AMES"
         self.mission     = "Extensible Traffic Management System — Advanced Air Mobility"
         self.languages   = ["JavaScript", "TypeScript", "Python", "GraphQL"]
         self.stack       = ["React", "React Native", "Node.js", "AWS", "MongoDB"]
@@ -79,9 +79,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhinayTiwari&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_color=00D4FF&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&border_radius=10" height="185" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhinayTiwari&show_icons=true&include_all_commits=true&theme=tokyonight&border_color=00D4FF&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" height="185" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayTiwari&layout=compact&theme=tokyonight&border_color=00D4FF&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&border_radius=10&langs_count=8" height="185" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayTiwari&layout=compact&theme=tokyonight&border_color=00D4FF&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8" height="185" alt="Top Languages"/>
 
 </div>
 
