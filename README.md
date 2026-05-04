@@ -1,14 +1,13 @@
-﻿<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  ABHINAY TIWARI — GitHub Profile             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--           ABHINAY TIWARI  ·  abhinayTiwari/abhinayTiwari     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhinay%20Tiwari&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Research%20Engineer%20%7C%20NASA%20AMES%20%7C%20Aviation%20%2B%20AI%20Enthusiast&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
+<!-- ╔══════════════  ANIMATED HEADER  ══════════════╗ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhinay%20Tiwari&fontSize=55&fontColor=00D4FF&animation=twinkling&fontAlignY=38&desc=Research%20Engineer%20%40%20NASA%20AMES%20%7C%20NVIDIA%20Certified%20Gen%20AI%20%7C%20Aviation%20%2B%20AI&descSize=16&descAlignY=60&descAlign=50" width="100%"/>
 
-<!-- Animated Typing Banner -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Hey+there!+I%27m+Abhinay+%F0%9F%91%8B;Building+the+future+of+Air+Mobility+%F0%9F%9A%80;Full+Stack+Research+Engineer+%40+NASA+AMES+%F0%9F%9B%B8;Open+Source+%7C+AI+%7C+Aviation+Researcher;Ask+me+anything!+%F0%9F%92%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there!+I%27m+Abhinay+%F0%9F%91%8B;Building+the+Future+of+Air+Mobility+%F0%9F%9A%80;NVIDIA+Certified+%7C+Gen+AI+%26+LLMs+%F0%9F%A7%A0;Research+Engineer+%40+NASA+AMES+%F0%9F%9B%B8;Ask+me+anything!+%F0%9F%92%AC)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,13 +25,15 @@
 ```python
 class AbhinayTiwari:
     def __init__(self):
-        self.name        = "Abhinay Tiwari"
-        self.role        = "Full Stack Research Engineer @ NASA AMES"
-        self.mission     = "Extensible Traffic Management System — Advanced Air Mobility"
-        self.languages   = ["JavaScript", "TypeScript", "Python", "GraphQL"]
-        self.stack       = ["React", "React Native", "Node.js", "AWS", "MongoDB"]
-        self.interests   = ["UAM Research", "AI/ML Systems", "Open Source"]
-        self.off_hours   = ["Tae-Kwon-Do 🥋", "Kick Boxing 🥊", "Hiking 🏔️", "Guitar 🎸"]
+        self.name         = "Abhinay Tiwari"
+        self.role         = "Full Stack Research Engineer @ NASA AMES"
+        self.mission      = "Extensible Traffic Mgmt System — Advanced Air Mobility"
+        self.ai_certs     = ["NVIDIA Certified Associate — Generative AI & LLMs"]
+        self.languages    = ["JavaScript", "TypeScript", "Python", "GraphQL"]
+        self.stack        = ["React", "React Native", "Node.js", "AWS", "MongoDB"]
+        self.ai_ml        = ["TensorFlow", "PyTorch", "LLMs", "RAG", "Gen AI"]
+        self.research     = ["UAM", "Air Traffic AI", "Autonomous Systems", "ETM"]
+        self.off_hours    = ["Tae-Kwon-Do 🥋", "Kick Boxing 🥊", "Hiking 🏔️", "Guitar 🎸"]
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing 🚀")
@@ -43,13 +44,77 @@ me.say_hi()
 
 <br/>
 
-| 🔭 Currently | Developing **[Extensible Traffic Management System](https://www.nasa.gov/aam)** for NASA's Advanced Air Mobility Mission |
+|  |  |
 |---|---|
-| 🤖 Exploring | AI/ML integrations in autonomous air traffic systems |
-| 🌱 Learning | React Native · TypeScript · GraphQL · AWS · Guitar 🎸 |
-| 👯 Looking to | Collaborate on **JavaScript** projects & **UAM** research |
-| ❤️ Passions | Tae-Kwon-Do · Kick Boxing · Hiking · Camping |
-| 💬 Ask me | [Anything here!](https://github.com/abhinayTiwari/abhinayTiwari/issues) |
+| 🔭 **Currently** | Building **[Extensible Traffic Management System](https://www.nasa.gov/aam)** for NASA's Advanced Air Mobility Mission |
+| 🧠 **AI/ML** | Designing intelligent autonomous air traffic systems using LLMs & computer vision |
+| 🎓 **Certified** | NVIDIA Certified Associate — Generative AI & LLMs |
+| 🌱 **Learning** | React Native · TypeScript · GraphQL · AWS · Guitar 🎸 |
+| 👯 **Collaborate** | JavaScript projects & UAM / AI research |
+| ❤️ **Passions** | Tae-Kwon-Do · Kick Boxing · Hiking · Camping |
+| 💬 **Ask me** | [Anything here!](https://github.com/abhinayTiwari/abhinayTiwari/issues) |
+
+---
+
+<!-- ── AI & RESEARCH SPOTLIGHT ─────────────────────────────────── -->
+## 🧠 AI & Research Spotlight
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NVIDIA-Certified_Associate_%7C_Generative_AI_%26_LLMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1a1a1a" alt="NVIDIA Certified Associate — Generative AI & LLMs"/>
+
+<br/><br/>
+
+| 🔬 Research Domain | 🛠️ AI/ML Tools | 🎯 Application Area |
+|:---:|:---:|:---:|
+| Urban Air Mobility (UAM) | TensorFlow · PyTorch | Autonomous Airspace Management |
+| Air Traffic Management | LLMs · RAG Systems | Intelligent Traffic Decisions |
+| Upper Class E (ETM) | Computer Vision | Stratospheric Operations |
+| Vertiport Automation | AI Agents · Simulation | High-Density Vertiplex Ops |
+
+</div>
+
+---
+
+<!-- ── CERTIFICATIONS & AWARDS ─────────────────────────────────── -->
+## 🎓 Certifications & Awards
+
+<div align="center">
+
+<a href="https://www.nvidia.com/en-us/training/certification/">
+  <img src="https://img.shields.io/badge/NVIDIA-Certified_Associate_%7C_Generative_AI_%26_LLMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=000000" alt="NVIDIA Certified"/>
+</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Best_Paper_Award-DASC_2023_%7C_AAM_Operations-FFD700?style=for-the-badge&labelColor=1a1a1a&logoColor=black" alt="Best Paper Award DASC 2023"/>
+
+<br/><br/>
+
+> 🏅 **Best Paper Award — DASC 2023 · Barcelona**
+> _"Airspace Performance Observations of Scalable Autonomous Operations in a High Density Vertiplex Simulation"_
+
+</div>
+
+---
+
+<!-- ── RESEARCH HIGHLIGHTS ─────────────────────────────────────── -->
+## 📄 Research Highlights
+
+<div align="center">
+
+[![NASA Publications](https://img.shields.io/badge/All_Publications-%40_NASA_AMES-E03C31?style=for-the-badge&logo=nasa&logoColor=white)](https://www.nasa.gov/people/abhinay-tiwari/)
+&nbsp;&nbsp;
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations_Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hFauDdsAAAAJ&hl=en)
+
+</div>
+
+<br/>
+
+| 📅 | 📑 Publication | 🏛️ Venue |
+|:---:|---|:---:|
+| 2025 | Advancing the Upper Class E Traffic Management (ETM) Concept: NASA's First ETM Collaborative Evaluation with Industry Partners | AIAA AVIATION 2025, Las Vegas |
+| 2024 | Initial Development of an Upper Class E Traffic Management (ETM) System for Stratospheric Flight Operations | AIAA AVIATION 2024, Las Vegas |
+| 2023 🏅 | **Airspace Performance Observations of Scalable Autonomous Operations in a High Density Vertiplex Simulation** _(Best Paper Award)_ | DASC 2023, Barcelona |
+| 2023 | Initial Development and Integration of a Vertiport Automation System for Advanced Air Mobility Operations | AIAA AVIATION 2023, San Diego |
 
 ---
 
@@ -61,6 +126,18 @@ me.say_hi()
 **Languages & Frameworks**
 
 [![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,graphql,python&theme=dark&perline=6)](https://skillicons.dev)
+
+**AI & Machine Learning**
+
+[![AI Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=6)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/Generative_AI-LLMs_%26_Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NVIDIA-CUDA_%26_AI_Certified-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-FF6F00?style=flat-square&logo=googlechrome&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Computer_Vision-Deep_Learning-00BCD4?style=flat-square&logo=opencv&logoColor=white"/>
 
 **Cloud, Databases & DevOps**
 
@@ -78,17 +155,16 @@ me.say_hi()
 ## 📊 Mission Control
 
 <div align="center">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhinayTiwari&show_icons=true&theme=tokyonight&hide_border=false" height="185" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayTiwari&layout=compact&theme=tokyonight&langs_count=8" height="185" alt="Top Languages"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhinayTiwari&theme=tokyonight&border=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&background=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhinayTiwari&theme=tokyonight&border=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&background=0D1117&border_radius=10)](https://git.io/streak-stats)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinayTiwari&theme=tokyonight)
 
 </div>
 
@@ -146,6 +222,10 @@ me.say_hi()
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%2300D4FF.svg?style=flat-square&logo=github)](https://github.com/abhinayTiwari)
 &nbsp;
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/abhinayTiwari)
+
+<br/>
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
