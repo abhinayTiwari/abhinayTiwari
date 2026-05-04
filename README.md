@@ -79,9 +79,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhinayTiwari&show_icons=true&include_all_commits=true&theme=tokyonight&border_color=00D4FF&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" height="185" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhinayTiwari&show_icons=true&theme=tokyonight&hide_border=false" height="185" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayTiwari&layout=compact&theme=tokyonight&border_color=00D4FF&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8" height="185" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayTiwari&layout=compact&theme=tokyonight&langs_count=8" height="185" alt="Top Languages"/>
 
 </div>
 
