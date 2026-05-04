@@ -155,16 +155,30 @@ me.say_hi()
 ## 📊 Mission Control
 
 <div align="center">
-<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhinayTiwari&theme=tokyonight&border=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&background=0D1117&border_radius=10)](https://git.io/streak-stats)
+<!-- Row 1: Stats + Productive Time -->
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="32%" alt="Stats"/>
+&nbsp;
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%" alt="Productive Time"/>
+
+<br/><br/>
+
+<!-- Row 2: Language Breakdown -->
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" alt="Repos Per Language"/>
+&nbsp;
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" alt="Most Commit Language"/>
+
+<br/><br/>
+
+<!-- Row 3: Full-width Contribution Timeline -->
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="98%" alt="Profile Details"/>
 
 </div>
 
 <div align="center">
 <br/>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinayTiwari&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhinayTiwari&theme=tokyonight&border=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&background=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
