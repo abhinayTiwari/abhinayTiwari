@@ -111,7 +111,7 @@ me.say_hi()
 
 | 📅 | 📑 Publication | 🏛️ Venue |
 |:---:|---|:---:|
-| 2026 | Coordinating the Sky Above: NASA’s Development and Evaluation of a Cooperative Higher Airspace Traffic Management (HATM) Concept | AIAA AVIATION 2026, SAN DIEGO |
+| 2026 | Coordinating the Sky Above: NASA's Development and Evaluation of a Cooperative Higher Airspace Traffic Management (HATM) Concept | AIAA AVIATION 2026, San Diego |
 | 2025 | Advancing the Upper Class E Traffic Management (ETM) Concept: NASA's First ETM Collaborative Evaluation with Industry Partners | AIAA AVIATION 2025, Las Vegas |
 | 2024 | A Human-In-The-Loop Simulation for Urban Air Mobility in the Terminal Area | DASC 2024, San Diego |
 | 2024 | Initial Integration of a Conflict Probabilities Service for Upper Class E Traffic Management | DASC 2024, San Diego |
