@@ -132,7 +132,7 @@ me.say_hi()
 
 | 📚 Course | 📝 What it covers |
 |---|---|
-| **[Applied AI Course](https://abhinaytiwari.github.io/Applied-AI-Course/)** | A tutorial-style, implementation-heavy course for software engineers moving into applied AI: LLM APIs, agentic systems, RAG, evaluation, safety, and fine-tuning — end to end. |
+| **[Applied AI Course](https://abhinaytiwari.github.io/Applied-AI-Course/)** | An end-to-end, tutorial-style course for software engineers moving into applied AI: LLM APIs, agentic systems, RAG, evaluation, safety, and fine-tuning. |
 
 ---
 

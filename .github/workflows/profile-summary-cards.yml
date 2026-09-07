@@ -24,3 +24,4 @@ jobs:
           UTC_OFFSET: "-8"       # PST (NASA Ames / California)
           EXCLUDE: ""
           AUTO_PUSH: true
+          THEME: "tokyonight"    # only theme actually embedded in README.md
