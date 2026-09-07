@@ -111,7 +111,10 @@ me.say_hi()
 
 | 📅 | 📑 Publication | 🏛️ Venue |
 |:---:|---|:---:|
+| 2026 | Coordinating the Sky Above: NASA's Development and Evaluation of a Cooperative Higher Airspace Traffic Management (HATM) Concept | AIAA AVIATION 2026, San Diego |
 | 2025 | Advancing the Upper Class E Traffic Management (ETM) Concept: NASA's First ETM Collaborative Evaluation with Industry Partners | AIAA AVIATION 2025, Las Vegas |
+| 2024 | A Human-In-The-Loop Simulation for Urban Air Mobility in the Terminal Area | DASC 2024, San Diego |
+| 2024 | Initial Integration of a Conflict Probabilities Service for Upper Class E Traffic Management | DASC 2024, San Diego |
 | 2024 | Initial Development of an Upper Class E Traffic Management (ETM) System for Stratospheric Flight Operations | AIAA AVIATION 2024, Las Vegas |
 | 2023 🏅 | **Airspace Performance Observations of Scalable Autonomous Operations in a High Density Vertiplex Simulation** _(Best Paper Award)_ | DASC 2023, Barcelona |
 | 2023 | Initial Development and Integration of a Vertiport Automation System for Advanced Air Mobility Operations | AIAA AVIATION 2023, San Diego |
