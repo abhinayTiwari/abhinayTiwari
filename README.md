@@ -118,6 +118,21 @@ me.say_hi()
 
 ---
 
+<!-- ── COURSES ──────────────────────────────────────────────────── -->
+## 📚 Courses
+
+<div align="center">
+
+[![Applied AI Course](https://img.shields.io/badge/Applied_AI_Course-Live_Site-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhinaytiwari.github.io/Applied-AI-Course/)
+
+</div>
+
+| 📚 Course | 📝 What it covers |
+|---|---|
+| **[Applied AI Course](https://abhinaytiwari.github.io/Applied-AI-Course/)** | A tutorial-style, implementation-heavy course for software engineers moving into applied AI: LLM APIs, agentic systems, RAG, evaluation, safety, and fine-tuning — end to end. |
+
+---
+
 <!-- ── TECH ARSENAL ─────────────────────────────────────────────── -->
 ## 🛸 Tech Arsenal
 
