@@ -122,17 +122,19 @@ me.say_hi()
 ---
 
 <!-- ── COURSES ──────────────────────────────────────────────────── -->
-## 📚 Courses
+## 📚 My Courses
 
 <div align="center">
 
-[![Applied AI Course](https://img.shields.io/badge/Applied_AI_Course-Live_Site-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhinaytiwari.github.io/Applied-AI-Course/)
+[![Applied AI Course for Software Engineer](https://img.shields.io/badge/Applied_AI_Course-Live_Site-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhinaytiwari.github.io/Applied-AI-Course/)
+[![AI For Research Engineer from First Principles](https://img.shields.io/badge/AI_From_First_Principles-Live_Site-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhinaytiwari.github.io/AI-From-First-Principles/)
 
 </div>
 
 | 📚 Course | 📝 What it covers |
 |---|---|
-| **[Applied AI Course](https://abhinaytiwari.github.io/Applied-AI-Course/)** | An end-to-end, tutorial-style course for software engineers moving into applied AI: LLM APIs, agentic systems, RAG, evaluation, safety, and fine-tuning. |
+| **[Applied AI Course for Software Engineer](https://abhinaytiwari.github.io/Applied-AI-Course/)** | An end-to-end, tutorial-style course for software engineers moving into applied AI: LLM APIs, agentic systems, RAG, evaluation, safety, and fine-tuning. |
+| **[AI for Research Engineer](https://abhinaytiwari.github.io/AI-From-First-Principles/)** | An implementation-heavy course toward becoming an AI **research** software engineer: math foundations, probability, neural-network mechanisms, and Transformer internals, each with derivations, interactive labs, and executable Python. |
 
 ---
 
