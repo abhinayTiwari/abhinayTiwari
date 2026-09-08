@@ -1,0 +1,81 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
+
+  <rect x="0.5" y="0.5" width="799" height="499" rx="12" fill="#0D1117" stroke="#30363d" stroke-width="1"/>
+
+  <!-- HUD corner brackets -->
+  <g stroke="#00D4FF" stroke-width="2" fill="none">
+    <path d="M12,32 V12 H32"/>
+    <path d="M768,12 H788 V32"/>
+    <path d="M788,468 V488 H768"/>
+    <path d="M32,488 H12 V468"/>
+  </g>
+
+  <text x="400" y="34" text-anchor="middle" font-size="15" letter-spacing="2" fill="#00D4FF" font-weight="bold">CREW MANIFEST // SYSTEM SPECIFICATIONS</text>
+  <line x1="30" y1="50" x2="770" y2="50" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Identity block -->
+  <g font-size="13">
+    <text x="40" y="78" fill="#8b949e">IDENTIFIER</text>
+    <text x="190" y="78" fill="#c9d1d9" font-weight="bold">ABHINAY TIWARI</text>
+
+    <text x="40" y="104" fill="#8b949e">ROLE</text>
+    <text x="190" y="104" fill="#ffa657" font-weight="bold">SENIOR RESEARCH ASSOCIATE</text>
+
+    <text x="40" y="130" fill="#8b949e">BASE</text>
+    <text x="190" y="130" fill="#c9d1d9">NASA AMES · AIRSPACE OPERATIONS LABORATORY</text>
+
+    <text x="40" y="156" fill="#8b949e">AFFILIATION</text>
+    <text x="190" y="156" fill="#c9d1d9">SAN JOSE STATE UNIVERSITY RESEARCH FOUNDATION</text>
+  </g>
+
+  <line x1="30" y1="178" x2="770" y2="178" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Column: RESEARCH SYSTEMS -->
+  <g>
+    <rect x="20" y="198" width="240" height="212" rx="8" fill="#0d1117" stroke="#00D4FF" stroke-width="1.2"/>
+    <path d="M20,198 h240 v26 h-240 Z" fill="#00D4FF" opacity="0.12"/>
+    <text x="140" y="216" text-anchor="middle" font-size="12" letter-spacing="1.5" fill="#00D4FF" font-weight="bold">RESEARCH SYSTEMS</text>
+    <g font-size="12" fill="#c9d1d9">
+      <circle cx="38" cy="245" r="3" fill="#00D4FF"/><text x="48" y="249">AI Agents &amp; LLM Systems</text>
+      <circle cx="38" cy="271" r="3" fill="#00D4FF"/><text x="48" y="275">Autonomous Systems</text>
+      <circle cx="38" cy="297" r="3" fill="#00D4FF"/><text x="48" y="301">Human-AI Collaboration</text>
+      <circle cx="38" cy="323" r="3" fill="#00D4FF"/><text x="48" y="327">Airspace Operations</text>
+      <circle cx="38" cy="349" r="3" fill="#00D4FF"/><text x="48" y="353">Simulation &amp; Evaluation</text>
+    </g>
+  </g>
+
+  <!-- Column: AI ENGINEERING -->
+  <g>
+    <rect x="280" y="198" width="240" height="212" rx="8" fill="#0d1117" stroke="#ffa657" stroke-width="1.2"/>
+    <path d="M280,198 h240 v26 h-240 Z" fill="#ffa657" opacity="0.12"/>
+    <text x="400" y="216" text-anchor="middle" font-size="12" letter-spacing="1.5" fill="#ffa657" font-weight="bold">AI ENGINEERING</text>
+    <g font-size="12" fill="#c9d1d9">
+      <circle cx="298" cy="245" r="3" fill="#ffa657"/><text x="308" y="249">Agent Architectures</text>
+      <circle cx="298" cy="271" r="3" fill="#ffa657"/><text x="308" y="275">RAG &amp; Knowledge Systems</text>
+      <circle cx="298" cy="297" r="3" fill="#ffa657"/><text x="308" y="301">Tool Use / MCP</text>
+      <circle cx="298" cy="323" r="3" fill="#ffa657"/><text x="308" y="327">LLM Evaluation</text>
+      <circle cx="298" cy="349" r="3" fill="#ffa657"/><text x="308" y="353">Local AI Systems</text>
+      <circle cx="298" cy="375" r="3" fill="#ffa657"/><text x="308" y="379">PyTorch / TensorFlow</text>
+    </g>
+  </g>
+
+  <!-- Column: CORE ENGINEERING -->
+  <g>
+    <rect x="540" y="198" width="240" height="212" rx="8" fill="#0d1117" stroke="#3fb950" stroke-width="1.2"/>
+    <path d="M540,198 h240 v26 h-240 Z" fill="#3fb950" opacity="0.12"/>
+    <text x="660" y="216" text-anchor="middle" font-size="12" letter-spacing="1.5" fill="#3fb950" font-weight="bold">CORE ENGINEERING</text>
+    <g font-size="12" fill="#c9d1d9">
+      <circle cx="558" cy="245" r="3" fill="#3fb950"/><text x="568" y="249">Python</text>
+      <circle cx="558" cy="271" r="3" fill="#3fb950"/><text x="568" y="275">Distributed &amp; API Systems</text>
+      <circle cx="558" cy="297" r="3" fill="#3fb950"/><text x="568" y="301">Docker</text>
+      <circle cx="558" cy="323" r="3" fill="#3fb950"/><text x="568" y="327">Cloud Infrastructure</text>
+      <circle cx="558" cy="349" r="3" fill="#3fb950"/><text x="568" y="353">Research Prototyping</text>
+      <circle cx="558" cy="375" r="3" fill="#3fb950"/><text x="568" y="379">Experiment Tooling</text>
+    </g>
+  </g>
+
+  <!-- Mission statement bar -->
+  <rect x="20" y="428" width="760" height="46" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="400" y="447" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#8b949e">PRIME DIRECTIVE</text>
+  <text x="400" y="465" text-anchor="middle" font-size="12.5" fill="#00D4FF" font-weight="bold">TURN AI CAPABILITIES INTO RELIABLE SYSTEMS FOR REAL-WORLD OPERATIONS</text>
+</svg>
